@@ -2,52 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17f46b82-cab1-42fb-be1e-bd7a4d10fa3d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-eureka/src/main/java/com/example/msa/EurekaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-eureka/src/main/java/com/example/msa/EurekaApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-eureka/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-eureka/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/classes/java/main/com/example/msa/MemberApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/build/classes/java/main/com/example/msa/MemberApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/classes/java/main/com/example/msa/rest/MemberController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/classes/java/main/com/example/msa/rest/MemberResponseDto$MemberResponseDtoBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/classes/java/main/com/example/msa/rest/MemberResponseDto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/classes/java/main/com/example/msa/rest/MemberSaveRequestDto$MemberSaveRequestDtoBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/classes/java/main/com/example/msa/rest/MemberSaveRequestDto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/classes/java/main/com/example/msa/service/MemberService.class" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/build/classes/java/main/com/example/msa/service/MemberService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/classes/java/test/com/example/msa/rest/MemberControllerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/reports/tests/test/classes/com.example.msa.rest.MemberControllerTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/reports/tests/test/packages/com.example.msa.rest.html" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/build/reports/tests/test/packages/com.example.msa.rest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/resources/main/application-local.yml" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/build/resources/main/application-local.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/test-results/test/TEST-com.example.msa.rest.MemberControllerTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-member/src/main/java/com/example/msa/MemberApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/src/main/java/com/example/msa/MemberApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-member/src/main/java/com/example/msa/service/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/src/main/java/com/example/msa/service/MemberService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-member/src/main/resources/application-local.yml" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/src/main/resources/application-local.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-order/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-order/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-order/src/main/java/com/example/msa/OrderApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-order/src/main/java/com/example/msa/OrderApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-order/src/main/java/com/example/msa/repository/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-order/src/main/java/com/example/msa/repository/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-order/src/main/java/com/example/msa/repository/OrderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-order/src/main/java/com/example/msa/repository/OrderRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-order/src/main/resources/application-local.yml" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-order/src/main/resources/application-local.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-order/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-order/src/main/resources/data.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-order/src/main/resources/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-order/src/main/resources/schema.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-order/src/main/resources/sql/order.xml" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-order/src/main/resources/sql/order.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-status/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-status/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-status/src/main/java/com/example/msa/StatusApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-status/src/main/java/com/example/msa/StatusApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,7 +187,19 @@
       <option name="presentableId" value="Default" />
       <updated>1585025673186</updated>
     </task>
+    <task id="LOCAL-00001" summary="app and eureka done">
+      <created>1585128292806</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585128292806</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="app and eureka done" />
+    <option name="LAST_COMMIT_MESSAGE" value="app and eureka done" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Auto_Import" timestamp="1585124767413">
@@ -259,34 +226,34 @@
     </state>
     <state x="-1178" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1858.0.1858.1080/62.0.1858.1080@-1858.0.1858.1080" timestamp="1585065816757" />
     <state x="742" y="101" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1585035013701" />
-    <state x="493" y="113" key="CommitChangelistDialog2" timestamp="1585128244051">
+    <state x="493" y="113" key="CommitChangelistDialog2" timestamp="1585128290635">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="493" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585128244051" />
+    <state x="493" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585128290635" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1585099410001">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585099410001" />
-    <state width="1877" height="278" key="GridCell.Tab.0.bottom" timestamp="1585128272855">
+    <state width="1877" height="278" key="GridCell.Tab.0.bottom" timestamp="1585128598937">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1798" height="315" key="GridCell.Tab.0.bottom/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1585062734905" />
-    <state width="1877" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585128272855" />
-    <state width="1877" height="278" key="GridCell.Tab.0.center" timestamp="1585128272854">
+    <state width="1877" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585128598937" />
+    <state width="1877" height="278" key="GridCell.Tab.0.center" timestamp="1585128598937">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1798" height="315" key="GridCell.Tab.0.center/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1585062734904" />
-    <state width="1877" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585128272854" />
-    <state width="1877" height="278" key="GridCell.Tab.0.left" timestamp="1585128272854">
+    <state width="1877" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585128598937" />
+    <state width="1877" height="278" key="GridCell.Tab.0.left" timestamp="1585128598937">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1798" height="315" key="GridCell.Tab.0.left/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1585062734903" />
-    <state width="1877" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585128272854" />
-    <state width="1877" height="278" key="GridCell.Tab.0.right" timestamp="1585128272855">
+    <state width="1877" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585128598937" />
+    <state width="1877" height="278" key="GridCell.Tab.0.right" timestamp="1585128598937">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1798" height="315" key="GridCell.Tab.0.right/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1585062734904" />
-    <state width="1877" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585128272855" />
+    <state width="1877" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585128598937" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1585112872098">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -312,6 +279,10 @@
     </state>
     <state x="492" y="182" key="SettingsEditor/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1585041877039" />
     <state x="444" y="175" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585117260954" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1585128314026">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585128314026" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1585101473540">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
