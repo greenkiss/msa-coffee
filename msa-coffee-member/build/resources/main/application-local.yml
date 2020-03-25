@@ -1,5 +1,5 @@
 server:
-  port: 8101
+  port: 8075
 
 logging:
   level:
@@ -26,3 +26,8 @@ mybatis:
   mapper-locations: classpath:sql/*.xml
   configuration:
     map-underscore-to-camel-case: true
+
+eureka:
+  client:
+    serviceURL:
+      defaultZone: http://localhost:8071/eureka/

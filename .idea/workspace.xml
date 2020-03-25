@@ -1,7 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17f46b82-cab1-42fb-be1e-bd7a4d10fa3d" name="Default Changelist" comment="" />
+    <list default="true" id="17f46b82-cab1-42fb-be1e-bd7a4d10fa3d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-eureka/src/main/java/com/example/msa/EurekaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-eureka/src/main/java/com/example/msa/EurekaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-eureka/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-eureka/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/classes/java/main/com/example/msa/MemberApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/build/classes/java/main/com/example/msa/MemberApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/classes/java/main/com/example/msa/rest/MemberController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/classes/java/main/com/example/msa/rest/MemberResponseDto$MemberResponseDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/classes/java/main/com/example/msa/rest/MemberResponseDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/classes/java/main/com/example/msa/rest/MemberSaveRequestDto$MemberSaveRequestDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/classes/java/main/com/example/msa/rest/MemberSaveRequestDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/classes/java/main/com/example/msa/service/MemberService.class" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/build/classes/java/main/com/example/msa/service/MemberService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/classes/java/test/com/example/msa/rest/MemberControllerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/reports/tests/test/classes/com.example.msa.rest.MemberControllerTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/reports/tests/test/packages/com.example.msa.rest.html" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/build/reports/tests/test/packages/com.example.msa.rest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/resources/main/application-local.yml" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/build/resources/main/application-local.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/test-results/test/TEST-com.example.msa.rest.MemberControllerTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-member/src/main/java/com/example/msa/MemberApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/src/main/java/com/example/msa/MemberApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-member/src/main/java/com/example/msa/service/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/src/main/java/com/example/msa/service/MemberService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-member/src/main/resources/application-local.yml" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/src/main/resources/application-local.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-order/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-order/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-order/src/main/java/com/example/msa/OrderApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-order/src/main/java/com/example/msa/OrderApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-order/src/main/java/com/example/msa/repository/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-order/src/main/java/com/example/msa/repository/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-order/src/main/java/com/example/msa/repository/OrderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-order/src/main/java/com/example/msa/repository/OrderRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-order/src/main/resources/application-local.yml" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-order/src/main/resources/application-local.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-order/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-order/src/main/resources/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-order/src/main/resources/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-order/src/main/resources/schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-order/src/main/resources/sql/order.xml" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-order/src/main/resources/sql/order.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-status/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-status/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-status/src/main/java/com/example/msa/StatusApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-status/src/main/java/com/example/msa/StatusApplication.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,8 +75,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -56,31 +103,38 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/msa-coffee-status/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.29307806" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.example.msa.rest" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\sts-bundle\sts-3.9.11.RELEASE\workspace\msa-coffee" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.msa.configure" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\msa-coffee-master\msa-coffee-status\src\main\resources" />
+      <recent name="D:\msa-coffee-master\msa-coffee-order\src" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.example.msa" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.MemberControllerTest.신규_회원_등록">
-    <configuration name="MemberApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.msa.MemberApplication" />
-      <module name="msa-coffee.msa-coffee-member.main" />
+  <component name="RunManager" selected="Application.OrderApplication">
+    <configuration name="EurekaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.msa.EurekaApplication" />
+      <module name="msa-coffee.msa-coffee-eureka.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.msa.*" />
@@ -91,25 +145,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MemberControllerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.example.msa.rest.MemberControllerTest&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":msa-coffee-member:cleanTest" />
-            <option value=":msa-coffee-member:test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
+    <configuration name="OrderApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.msa.OrderApplication" />
+      <module name="msa-coffee.msa-coffee-order.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.msa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatusApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.msa.StatusApplication" />
+      <module name="msa-coffee.msa-coffee-status.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.msa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="MemberControllerTest.신규_회원_등록" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -131,11 +191,33 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="Tests in 'msa-coffee.msa-coffee-member.test'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests *" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":msa-coffee-member:cleanTest" />
+            <option value=":msa-coffee-member:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EurekaApplication" />
+        <item itemvalue="Application.StatusApplication" />
+        <item itemvalue="Application.OrderApplication" />
+        <item itemvalue="Gradle.Tests in 'msa-coffee.msa-coffee-member.test'" />
         <item itemvalue="Gradle.MemberControllerTest.신규_회원_등록" />
-        <item itemvalue="Gradle.MemberControllerTest" />
-        <item itemvalue="Application.MemberApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -153,6 +235,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Auto_Import" timestamp="1585124767413">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Auto_Import/0.0.1920.1040@0.0.1920.1040" timestamp="1585124767413" />
     <state x="538" y="191" key="#Project_Structure" timestamp="1585096971584">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -163,48 +249,85 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="162" y="100" width="1658" height="880" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1585042703298" />
-    <state x="758" y="247" key="#com.intellij.ide.util.MemberChooser" timestamp="1585098557496">
+    <state x="758" y="247" key="#com.intellij.ide.util.MemberChooser" timestamp="1585125186763">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="796" y="256" key="#com.intellij.ide.util.MemberChooser/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1585047734427" />
-    <state x="758" y="247" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585098557496" />
+    <state x="758" y="247" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585125186763" />
     <state x="-1178" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585065816757">
       <screen x="-1858" y="0" width="1858" height="1080" />
     </state>
     <state x="-1178" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1858.0.1858.1080/62.0.1858.1080@-1858.0.1858.1080" timestamp="1585065816757" />
     <state x="742" y="101" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1585035013701" />
+    <state x="493" y="113" key="CommitChangelistDialog2" timestamp="1585128244051">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="493" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585128244051" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1585099410001">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585099410001" />
-    <state width="1798" height="315" key="GridCell.Tab.0.bottom" timestamp="1585062734905">
-      <screen x="62" y="0" width="1858" height="1080" />
+    <state width="1877" height="278" key="GridCell.Tab.0.bottom" timestamp="1585128272855">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1798" height="315" key="GridCell.Tab.0.bottom/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1585062734905" />
-    <state width="1798" height="315" key="GridCell.Tab.0.center" timestamp="1585062734904">
-      <screen x="62" y="0" width="1858" height="1080" />
+    <state width="1877" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585128272855" />
+    <state width="1877" height="278" key="GridCell.Tab.0.center" timestamp="1585128272854">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1798" height="315" key="GridCell.Tab.0.center/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1585062734904" />
-    <state width="1798" height="315" key="GridCell.Tab.0.left" timestamp="1585062734903">
-      <screen x="62" y="0" width="1858" height="1080" />
+    <state width="1877" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585128272854" />
+    <state width="1877" height="278" key="GridCell.Tab.0.left" timestamp="1585128272854">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1798" height="315" key="GridCell.Tab.0.left/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1585062734903" />
-    <state width="1798" height="315" key="GridCell.Tab.0.right" timestamp="1585062734904">
-      <screen x="62" y="0" width="1858" height="1080" />
+    <state width="1877" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585128272854" />
+    <state width="1877" height="278" key="GridCell.Tab.0.right" timestamp="1585128272855">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1798" height="315" key="GridCell.Tab.0.right/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1585062734904" />
+    <state width="1877" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585128272855" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1585112872098">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585112872098" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1585112872098">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585112872098" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1585112872097">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585112872097" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1585112872098">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585112872098" />
     <state x="562" y="379" width="858" height="371" key="NewModule_or_Project.wizard" timestamp="1585027300135">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="562" y="379" width="858" height="371" key="NewModule_or_Project.wizard/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1585027300135" />
-    <state x="492" y="182" key="SettingsEditor" timestamp="1585041877039">
-      <screen x="62" y="0" width="1858" height="1080" />
+    <state x="444" y="175" key="SettingsEditor" timestamp="1585117260954">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="492" y="182" key="SettingsEditor/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1585041877039" />
+    <state x="444" y="175" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585117260954" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1585101473540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585101473540" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1585096832599">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585096832599" />
+    <state x="652" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585121952006">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585121952006" />
+    <state x="764" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585125522332">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="764" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585125522332" />
     <state x="762" y="258" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585041213799">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
@@ -225,5 +348,12 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="647" y="250" width="672" height="677" key="run.anything.popup/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1585035079263" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Remote">
+        <watch expression="((MockMethodInterceptor)this.mockitoInterceptor).handler" custom="com.example.msa.service.MemberService,org.mockito.internal.creation.bytebuddy.MockMethodInterceptor" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

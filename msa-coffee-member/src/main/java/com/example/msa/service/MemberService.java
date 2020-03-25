@@ -4,6 +4,7 @@ import com.example.msa.repository.MemberRepository;
 import com.example.msa.rest.dto.MemberResponseDto;
 import com.example.msa.rest.dto.MemberSaveRequestDto;
 import lombok.RequiredArgsConstructor;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
