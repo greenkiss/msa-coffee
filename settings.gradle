@@ -4,4 +4,5 @@ include 'msa-coffee-eureka'
 include 'msa-coffee-member'
 include 'msa-coffee-order'
 include 'msa-coffee-status'
+include 'msa-coffee-zuul'
 

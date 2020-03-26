@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class OrderRestController {
 
-    private  final OrderService orderService;
+    private final OrderService orderService;
 
     @ApiOperation(value = "save coffee order")
     @PostMapping("/api/v1/order")
