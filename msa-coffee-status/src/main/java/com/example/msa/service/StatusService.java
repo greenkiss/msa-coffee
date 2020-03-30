@@ -1,9 +1,11 @@
 package com.example.msa.service;
 
 import com.example.msa.repository.StatusRepository;
+import com.example.msa.rest.dto.StatusRequestDto;
 import com.example.msa.rest.dto.StatusResponseDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 import java.util.stream.Collectors;

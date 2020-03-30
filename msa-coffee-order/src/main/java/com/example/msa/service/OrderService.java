@@ -16,5 +16,4 @@ public class OrderService {
     public Long save(OrderRequestDto dto){
         return orderRepository.save(dto.toEntity());
     }
-
 }

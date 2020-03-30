@@ -4,17 +4,31 @@
     <list default="true" id="17f46b82-cab1-42fb-be1e-bd7a4d10fa3d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-order/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-order/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-order/build/classes/java/main/com/example/msa/rest/OrderRestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-order/build/classes/java/main/com/example/msa/rest/OrderRestController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-order/build/resources/main/application-local.yml" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-order/build/resources/main/application-local.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/msa-coffee-order/src/main/java/com/example/msa/rest/OrderRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-order/src/main/java/com/example/msa/rest/OrderRestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-order/src/main/java/com/example/msa/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-order/src/main/java/com/example/msa/service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-order/src/main/resources/application-local.yml" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-order/src/main/resources/application-local.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-status/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-status/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-status/build/classes/java/main/com/example/msa/repository/StatusRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-status/build/classes/java/main/com/example/msa/repository/StatusRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-status/build/classes/java/main/com/example/msa/rest/StatusController.class" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-status/build/classes/java/main/com/example/msa/rest/StatusController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-status/build/classes/java/main/com/example/msa/service/StatusService.class" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-status/build/classes/java/main/com/example/msa/service/StatusService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-status/build/resources/main/sql/status.xml" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-status/build/resources/main/sql/status.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-status/src/main/java/com/example/msa/repository/StatusRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-status/src/main/java/com/example/msa/repository/StatusRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-status/src/main/java/com/example/msa/rest/StatusController.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-status/src/main/java/com/example/msa/rest/StatusController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-status/src/main/java/com/example/msa/service/StatusService.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-status/src/main/java/com/example/msa/service/StatusService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msa-coffee-status/src/main/resources/sql/status.xml" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-status/src/main/resources/sql/status.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +89,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.29307806" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
@@ -101,7 +116,7 @@
       <recent name="com.example.msa" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ZuulApplication">
+  <component name="RunManager" selected="Application.StatusApplication">
     <configuration name="EurekaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.msa.EurekaApplication" />
       <module name="msa-coffee.msa-coffee-eureka.main" />
@@ -202,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585128743807</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add zuul server">
+      <created>1585205851008</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585205851008</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -219,77 +241,82 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="app and eureka done" />
     <MESSAGE value="app and eureka done 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="app and eureka done 2" />
+    <MESSAGE value="add zuul server" />
+    <option name="LAST_COMMIT_MESSAGE" value="add zuul server" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Auto_Import" timestamp="1585124767413">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Auto_Import/0.0.1920.1040@0.0.1920.1040" timestamp="1585124767413" />
-    <state x="538" y="191" key="#Project_Structure" timestamp="1585196007137">
+    <state x="538" y="191" key="#Project_Structure" timestamp="1585214753308">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1337" y="198" key="#Project_Structure/-1858.0.1858.1080/62.0.1858.1080@-1858.0.1858.1080" timestamp="1585066054321" />
     <state x="583" y="198" key="#Project_Structure/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1585063719003" />
-    <state x="538" y="191" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1585196007137" />
+    <state x="538" y="191" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1585214753308" />
     <state x="162" y="100" width="1658" height="880" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585042703298">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="162" y="100" width="1658" height="880" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1585042703298" />
-    <state x="758" y="247" key="#com.intellij.ide.util.MemberChooser" timestamp="1585125186763">
+    <state x="758" y="247" key="#com.intellij.ide.util.MemberChooser" timestamp="1585214694991">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="796" y="256" key="#com.intellij.ide.util.MemberChooser/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1585047734427" />
-    <state x="758" y="247" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585125186763" />
+    <state x="758" y="247" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585214694991" />
     <state x="-1178" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585065816757">
       <screen x="-1858" y="0" width="1858" height="1080" />
     </state>
     <state x="-1178" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1858.0.1858.1080/62.0.1858.1080@-1858.0.1858.1080" timestamp="1585065816757" />
     <state x="742" y="101" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1585035013701" />
-    <state x="493" y="113" key="CommitChangelistDialog2" timestamp="1585128742541">
+    <state x="706" y="356" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585539093144">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="493" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585128742541" />
+    <state x="706" y="356" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1585539093144" />
+    <state x="493" y="113" key="CommitChangelistDialog2" timestamp="1585561974276">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="493" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585561974276" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1585188837155">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585188837155" />
-    <state width="1877" height="278" key="GridCell.Tab.0.bottom" timestamp="1585198379468">
+    <state width="914" height="277" key="GridCell.Tab.0.bottom" timestamp="1585561989441">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1798" height="315" key="GridCell.Tab.0.bottom/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1585062734905" />
-    <state width="1877" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585198379468" />
-    <state width="1877" height="278" key="GridCell.Tab.0.center" timestamp="1585198379468">
+    <state width="914" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585561989441" />
+    <state width="914" height="277" key="GridCell.Tab.0.center" timestamp="1585561989441">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1798" height="315" key="GridCell.Tab.0.center/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1585062734904" />
-    <state width="1877" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585198379468" />
-    <state width="1877" height="278" key="GridCell.Tab.0.left" timestamp="1585198379467">
+    <state width="914" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585561989441" />
+    <state width="914" height="277" key="GridCell.Tab.0.left" timestamp="1585561989441">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1798" height="315" key="GridCell.Tab.0.left/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1585062734903" />
-    <state width="1877" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585198379467" />
-    <state width="1877" height="278" key="GridCell.Tab.0.right" timestamp="1585198379468">
+    <state width="914" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585561989441" />
+    <state width="914" height="277" key="GridCell.Tab.0.right" timestamp="1585561989441">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1798" height="315" key="GridCell.Tab.0.right/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1585062734904" />
-    <state width="1877" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585198379468" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1585112872098">
+    <state width="914" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585561989441" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1585557665782">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585112872098" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1585112872098">
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585557665782" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1585557665782">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585112872098" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1585112872097">
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585557665782" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1585557665782">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585112872097" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1585112872098">
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585557665782" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1585557665782">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585112872098" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585557665782" />
     <state x="562" y="379" width="858" height="371" key="NewModule_or_Project.wizard" timestamp="1585027300135">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
@@ -299,10 +326,10 @@
     </state>
     <state x="492" y="182" key="SettingsEditor/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1585041877039" />
     <state x="444" y="175" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585205754378" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1585128753636">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1585205869741">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585128753636" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585205869741" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1585101473540">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -344,12 +371,21 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="647" y="250" width="672" height="677" key="run.anything.popup/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1585035079263" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1585195917414">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1585554484805">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585195917414" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585554484805" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/msa-coffee-status/src/main/java/com/example/msa/messageq/KafkaConsumer.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="Remote">
         <watch expression="((MockMethodInterceptor)this.mockitoInterceptor).handler" custom="com.example.msa.service.MemberService,org.mockito.internal.creation.bytebuddy.MockMethodInterceptor" />
