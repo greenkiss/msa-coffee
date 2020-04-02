@@ -11,9 +11,11 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/msa-coffee-eureka" />
+            <option value="$PROJECT_DIR$/msa-coffee-hystrix-dashboard" />
             <option value="$PROJECT_DIR$/msa-coffee-member" />
             <option value="$PROJECT_DIR$/msa-coffee-order" />
             <option value="$PROJECT_DIR$/msa-coffee-status" />
+            <option value="$PROJECT_DIR$/msa-coffee-turbine" />
             <option value="$PROJECT_DIR$/msa-coffee-zuul" />
           </set>
         </option>

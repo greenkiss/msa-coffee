@@ -5,4 +5,6 @@ include 'msa-coffee-member'
 include 'msa-coffee-order'
 include 'msa-coffee-status'
 include 'msa-coffee-zuul'
+include 'msa-coffee-hystrix-dashboard'
+include 'msa-coffee-turbine'
 

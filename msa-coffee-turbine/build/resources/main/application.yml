@@ -1,0 +1,21 @@
+server:
+  port: 9000
+
+spring:
+  application:
+    name: msa-coffe-turbine
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8071/eureka/
+
+turbine:
+  appConfig: msa-coffee-order, msa-coffee-member, msa-coffee-status
+  clusterNameExpression : new String("default")
+
+#management:
+#  endpoints:
+#    web:
+#      exposure:
+#        include: hystrix.stream, info, health

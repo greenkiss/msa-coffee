@@ -14,8 +14,12 @@
     <bytecodeTargetLevel>
       <module name="msa-coffee.eureka.main" target="1.8" />
       <module name="msa-coffee.eureka.test" target="1.8" />
+      <module name="msa-coffee.hystrixDashboard.main" target="1.8" />
+      <module name="msa-coffee.hystrixDashboard.test" target="1.8" />
       <module name="msa-coffee.member.main" target="1.8" />
       <module name="msa-coffee.member.test" target="1.8" />
+      <module name="msa-coffee.msa-coffee-hystrixDashboard.main" target="1.8" />
+      <module name="msa-coffee.msa-coffee-hystrixDashboard.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

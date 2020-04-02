@@ -17,7 +17,7 @@ import java.util.Map;
 @Configuration
 @EnableKafka
 public class KafkaConfig {
-    public Map<String, Object>  producerConfigs(){
+    public Map<String, Object> producerConfigs(){
         Map<String, Object> props = new HashMap<>();
 
         props.put(ProducerConfig.BOOTSTRAP_SERVERS_CONFIG, "http://localhost:9092");
