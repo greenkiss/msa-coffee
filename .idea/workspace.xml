@@ -4,6 +4,7 @@
     <list default="true" id="17f46b82-cab1-42fb-be1e-bd7a4d10fa3d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
@@ -12,39 +13,14 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/classes/java/main/com/example/msa/MemberApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/build/classes/java/main/com/example/msa/MemberApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/classes/java/main/com/example/msa/repository/MemberRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/build/classes/java/main/com/example/msa/repository/MemberRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/classes/java/main/com/example/msa/rest/MemberRestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/build/classes/java/main/com/example/msa/rest/MemberRestController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/classes/java/main/com/example/msa/service/MemberService.class" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/build/classes/java/main/com/example/msa/service/MemberService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/resources/main/application-local.yml" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/build/resources/main/application-local.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-member/build/resources/main/sql/member.xml" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/build/resources/main/sql/member.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-member/src/main/java/com/example/msa/MemberApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/src/main/java/com/example/msa/MemberApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-member/src/main/java/com/example/msa/repository/MemberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/src/main/java/com/example/msa/repository/MemberRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-member/src/main/java/com/example/msa/rest/MemberRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/src/main/java/com/example/msa/rest/MemberRestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-member/src/main/java/com/example/msa/service/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/src/main/java/com/example/msa/service/MemberService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/msa-coffee-member/src/main/resources/application-local.yml" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/src/main/resources/application-local.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-member/src/main/resources/sql/member.xml" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-member/src/main/resources/sql/member.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-order/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-order/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-order/build/classes/java/main/com/example/msa/OrderApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-order/build/classes/java/main/com/example/msa/OrderApplication.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/msa-coffee-order/build/classes/java/main/com/example/msa/rest/OrderRestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-order/build/classes/java/main/com/example/msa/rest/OrderRestController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/msa-coffee-order/build/resources/main/application-local.yml" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-order/build/resources/main/application-local.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-order/src/main/java/com/example/msa/OrderApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-order/src/main/java/com/example/msa/OrderApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-order/src/main/java/com/example/msa/messageq/KafkaConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-order/src/main/java/com/example/msa/messageq/KafkaConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/msa-coffee-order/src/main/java/com/example/msa/rest/OrderRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-order/src/main/java/com/example/msa/rest/OrderRestController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/msa-coffee-order/src/main/resources/application-local.yml" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-order/src/main/resources/application-local.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-status/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-status/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-status/build/classes/java/main/com/example/msa/StatusApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-status/build/classes/java/main/com/example/msa/StatusApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-status/build/classes/java/main/com/example/msa/rest/StatusController.class" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-status/build/classes/java/main/com/example/msa/rest/StatusController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-status/build/resources/main/application-local.yml" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-status/build/resources/main/application-local.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-status/src/main/java/com/example/msa/StatusApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-status/src/main/java/com/example/msa/StatusApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/msa-coffee-status/src/main/java/com/example/msa/rest/StatusController.java" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-status/src/main/java/com/example/msa/rest/StatusController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/msa-coffee-status/src/main/resources/application-local.yml" beforeDir="false" afterPath="$PROJECT_DIR$/msa-coffee-status/src/main/resources/application-local.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -284,7 +260,46 @@
       <recent name="com.example.msa" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TurbineApplication">
+  <component name="RunManager" selected="Application.OrderApplication">
+    <configuration name="EurekaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.msa.EurekaApplication" />
+      <module name="msa-coffee.msa-coffee-eureka.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.msa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.msa.MemberApplication" />
+      <module name="msa-coffee.msa-coffee-member.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.msa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.msa.OrderApplication" />
+      <module name="msa-coffee.msa-coffee-order.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.msa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StatusApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.msa.StatusApplication" />
       <module name="msa-coffee.msa-coffee-status.main" />
@@ -311,70 +326,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="msa-coffee-master:msa-coffee-hystrix-dashboard [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/msa-coffee-hystrix-dashboard" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="bootRun" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="msa-coffee-master:msa-coffee-status [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/msa-coffee-status" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="bootRun" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="msa-coffee-master:msa-coffee-turbine [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/msa-coffee-turbine" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="bootRun" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EurekaApplication" />
+        <item itemvalue="Application.MemberApplication" />
+        <item itemvalue="Application.OrderApplication" />
         <item itemvalue="Application.TurbineApplication" />
         <item itemvalue="Application.StatusApplication" />
-        <item itemvalue="Gradle.msa-coffee-master:msa-coffee-hystrix-dashboard [bootRun]" />
-        <item itemvalue="Gradle.msa-coffee-master:msa-coffee-turbine [bootRun]" />
-        <item itemvalue="Gradle.msa-coffee-master:msa-coffee-status [bootRun]" />
       </list>
     </recent_temporary>
   </component>
@@ -469,67 +427,71 @@
     </state>
     <state x="-1178" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1858.0.1858.1080/62.0.1858.1080@-1858.0.1858.1080" timestamp="1585065816757" />
     <state x="742" y="101" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1585035013701" />
+    <state x="715" y="222" key="#xdebugger.evaluate" timestamp="1586152207490">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="222" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1586152207490" />
     <state x="706" y="356" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585711872668">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="706" y="356" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1585711872668" />
-    <state x="493" y="113" key="CommitChangelistDialog2" timestamp="1585562006879">
+    <state x="493" y="113" key="CommitChangelistDialog2" timestamp="1586218875172">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="493" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585562006879" />
+    <state x="493" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586218875172" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1585188837155">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585188837155" />
-    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1585817117575">
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1586158761587">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1798" height="315" key="GridCell.Tab.0.bottom/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1585062734905" />
-    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585817117575" />
-    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1585817117575">
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586158761587" />
+    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1586158761587">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1798" height="315" key="GridCell.Tab.0.center/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1585062734904" />
-    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585817117575" />
-    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1585817117575">
+    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586158761587" />
+    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1586158761587">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1798" height="315" key="GridCell.Tab.0.left/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1585062734903" />
-    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585817117575" />
-    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1585817117575">
+    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586158761587" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1586158761587">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1798" height="315" key="GridCell.Tab.0.right/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1585062734904" />
-    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585817117575" />
-    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1585632263935">
+    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586158761587" />
+    <state width="1877" height="429" key="GridCell.Tab.1.bottom" timestamp="1586158761579">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585632263935" />
-    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1585632263935">
+    <state width="1877" height="429" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586158761579" />
+    <state width="1877" height="429" key="GridCell.Tab.1.center" timestamp="1586158761578">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585632263935" />
-    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1585632263935">
+    <state width="1877" height="429" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586158761578" />
+    <state width="1877" height="429" key="GridCell.Tab.1.left" timestamp="1586158761578">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585632263935" />
-    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1585632263935">
+    <state width="1877" height="429" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586158761578" />
+    <state width="1877" height="429" key="GridCell.Tab.1.right" timestamp="1586158761578">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585632263935" />
+    <state width="1877" height="429" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586158761578" />
     <state x="562" y="379" width="858" height="371" key="NewModule_or_Project.wizard" timestamp="1585027300135">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="562" y="379" width="858" height="371" key="NewModule_or_Project.wizard/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1585027300135" />
-    <state x="444" y="175" key="SettingsEditor" timestamp="1585725945045">
+    <state x="444" y="175" key="SettingsEditor" timestamp="1586139459062">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="492" y="182" key="SettingsEditor/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1585041877039" />
-    <state x="444" y="175" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585725945045" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1585562019421">
+    <state x="444" y="175" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586139459062" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1586218947209">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585562019421" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586218947209" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1585101473540">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -538,10 +500,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585096832599" />
-    <state x="652" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585817160177">
+    <state x="652" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586218808825">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="652" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585817160177" />
+    <state x="652" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586218808825" />
     <state x="604" y="135" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585711844185">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -576,10 +538,10 @@
     </state>
     <state x="647" y="250" width="672" height="677" key="run.anything.popup/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1585035079263" />
     <state x="605" y="241" width="695" height="652" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585634751276" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1585554484805">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1586153399651">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585554484805" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586153399651" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
