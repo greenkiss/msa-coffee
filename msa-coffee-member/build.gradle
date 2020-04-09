@@ -9,6 +9,12 @@ sourceCompatibility = '1.8'
 repositories {
 	mavenCentral()
 	jcenter()
+	maven {
+		url "https://oss.sonatype.org/content/repositories/snapshots/"
+		mavenContent {
+			snapshotsOnly()
+		}
+	}
 }
 
 dependencyManagement {
@@ -31,6 +37,7 @@ dependencies {
 	implementation 'org.springframework.cloud:spring-cloud-starter-netflix-eureka-client'
 	implementation 'org.springframework.cloud:spring-cloud-starter-netflix-hystrix'
 	implementation 'org.springframework.boot:spring-boot-starter-actuator'
+	implementation 'de.codecentric:chaos-monkey-spring-boot:2.2.0'
 	compileOnly 'org.projectlombok:lombok'
 	annotationProcessor 'org.projectlombok:lombok'
 	runtimeOnly 'com.h2database:h2'

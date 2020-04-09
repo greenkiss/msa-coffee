@@ -18,14 +18,12 @@ public class StatusController {
 
     @ApiOperation(value="find all status")
     @GetMapping("/api/v1/status")
-    @HystrixCommand
     public List<StatusResponseDto> findAll() {
         return statusService.findAll();
     }
 
     @ApiOperation(value="find status by id")
     @GetMapping("/api/v1/status/{id}")
-    @HystrixCommand
     public StatusResponseDto findById(@PathVariable Long id) {
         return statusService.findById(id);
     }

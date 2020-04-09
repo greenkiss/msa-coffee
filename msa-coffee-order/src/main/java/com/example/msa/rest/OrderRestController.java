@@ -26,28 +26,21 @@ public class OrderRestController {
 
     @ApiOperation(value = "save coffee order")
     @PostMapping("/api/v1/order")
-    @HystrixCommand(fallbackMethod = "saveFallback")
-    public Long save(@RequestBody OrderRequestDto orderRequestDto){
+    public Long save(@RequestBody OrderRequestDto orderRequestDto) {
         String topic = "coffee-test";
 
         Long flag = 0L;
 
-        try{
-            if(iMemberExist.findByName(orderRequestDto.getMemberName()))
-                System.out.println(orderRequestDto.getMemberName() + "is Member!");
-
+        if(iMemberExist.findByName(orderRequestDto.getMemberName()))
+            System.out.println(orderRequestDto.getMemberName() + "is Member!");
+        else {
+            System.out.println("Not Member!");
+            return flag;
+        }
         flag = orderService.save(orderRequestDto);
         kafkaProducer.send(topic, orderRequestDto);
-        }catch (Exception e){
-            throw e;
-        }
+
         System.out.println("=================== end =======================" );
         return flag;
     }
-
-    public Long saveFallback(OrderRequestDto orderRequestDto, Throwable throwable){
-        System.out.println("============================\n"+throwable);
-        return 0L;
-    }
-
 }

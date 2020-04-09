@@ -23,3 +23,8 @@ zuul:
     coffeeStatus:
       path: /coffeeStatus/**
       serviceId: msa-coffee-status
+
+#msa-coffee-member:
+#  ribbon:
+#    ConnectTimeout: 5000
+#    ReadTimeout: 5000
